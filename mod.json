@@ -1,0 +1,8 @@
+{
+	"name": "ExamplePlanetGen",
+	"displayName": "Example Planet",
+	"author":"LottieVixen",
+	"description": "Example Planet Generation",
+	"version": "0.0.1",
+	"minGameVersion":120
+}
